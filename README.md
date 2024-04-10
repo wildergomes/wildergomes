@@ -33,7 +33,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Projects](https://github.com/wildergomes/projects)
 
 
 <!-- GIF -->
